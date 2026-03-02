@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Analytics } from '@vercel/analytics/react';
 import { ThemeToggle } from './components/ThemeToggle';
 import { ParticleBackground } from './components/ParticleBackground';
 import { ProgressBar } from './components/ProgressBar';
@@ -198,6 +199,7 @@ export default function App() {
           <p>© {new Date().getFullYear()} ProgressPro. Built with React & Tailwind CSS.</p>
         </div>
       </footer>
+      <Analytics />
     </div>
   );
 }
