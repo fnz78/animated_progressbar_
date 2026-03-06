@@ -6,6 +6,7 @@ A responsive, interactive web application showcasing various types of animated p
 
 ## 🚀 Features
 
+
 - **📊 Multiple Progress Bar Types**:
   - **Linear Skill Bars**: Smooth width animations from 0% to target.
   - **Circular Indicators**: SVG-based circular progress with animated strokes.
