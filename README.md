@@ -1,5 +1,6 @@
 # Animated Progress Bars
 
+
 A responsive, interactive web application showcasing various types of animated progress bars and indicators. Built with React, Tailwind CSS, and Motion.
 
 ![Project Preview](https://picsum.photos/seed/progress/800/400)
